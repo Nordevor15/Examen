@@ -8,4 +8,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Alumno3-Alexis.unity
+    guid: ada3e582ca9e9704194828c79f793ff1
+  - enabled: 1
+    path: Assets/Scenes/Creditos.unity
+    guid: 1b9e5d99a909692489f31b19147adde2
+  - enabled: 1
+    path: Assets/Scenes/Derrota.unity
+    guid: a02af275ab274c44e9ba1177bbb1b115
+  - enabled: 1
+    path: Assets/Scenes/Victoria.unity
+    guid: cebbc0e4738a02345848eba5dd4492cb
   m_configObjects: {}

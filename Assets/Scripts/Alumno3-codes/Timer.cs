@@ -6,16 +6,16 @@ using TMPro;
 
 public class Timer : MonoBehaviour
 {
-    public float timer = 30;
+    public float timer = 10;
     public TextMeshProUGUI UItext;
 
     void Update()
     {
         timer -= Time.deltaTime;
         UItext.text = ""+timer.ToString("f0");
-        if (timer == 0)
+        if (timer <= 0.1)
         {
-            //cambio de escena
+            SceneManager.LoadScene("Victoria");
         }
     }
 }

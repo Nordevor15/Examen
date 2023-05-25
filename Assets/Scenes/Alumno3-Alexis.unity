@@ -179,7 +179,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 678e062c1ef68df4cbb574412537c4d1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  timer: 30
+  timer: 10
   UItext: {fileID: 588168099}
 --- !u!114 &588168099
 MonoBehaviour:
